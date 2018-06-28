@@ -1,3 +1,3 @@
 export default {
-  phrase: 'hello world2'
+  phrase: 'hello world3'
 }
